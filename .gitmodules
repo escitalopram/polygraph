@@ -1,12 +1,12 @@
 [submodule "polygraph.core"]
 	path = polygraph.core
-	url = ./polygraph.core
+	url = ../polygraph.core
 [submodule "polygraph.syslib"]
 	path = polygraph.syslib
-	url = ./polygraph.syslib/
+	url = ../polygraph.syslib/
 [submodule "polygraph.messagetype.mail"]
 	path = polygraph.messagetype.mail
-	url = ./polygraph.messagetype.mail/
+	url = ../polygraph.messagetype.mail/
 [submodule "polygraph.dist.simple"]
 	path = polygraph.dist.simple
-	url = ./polygraph.dist.simple/
+	url = ../polygraph.dist.simple/
