@@ -1,12 +1,12 @@
 [submodule "polygraph.core"]
 	path = polygraph.core
-	url = ../polygraph.core
+	url = git://github.com/escitalopram/polygraph.core.git
 [submodule "polygraph.syslib"]
 	path = polygraph.syslib
-	url = ../polygraph.syslib/
+	url = git://github.com/escitalopram/polygraph.syslib.git
 [submodule "polygraph.messagetype.mail"]
 	path = polygraph.messagetype.mail
-	url = ../polygraph.messagetype.mail/
+	url = git://github.com/escitalopram/polygraph.messagetype.mail.git
 [submodule "polygraph.dist.simple"]
 	path = polygraph.dist.simple
-	url = ../polygraph.dist.simple/
+	url = git://github.com/escitalopram/polygraph.dist.simple.git
