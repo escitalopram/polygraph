@@ -10,3 +10,6 @@
 [submodule "polygraph.dist.simple"]
 	path = polygraph.dist.simple
 	url = git://github.com/escitalopram/polygraph.dist.simple.git
+[submodule "polygraph.plumbing"]
+	path = polygraph.plumbing
+	url = git://github.com/escitalopram/polygraph.plumbing.git
